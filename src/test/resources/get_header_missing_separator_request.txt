@@ -1,0 +1,5 @@
+GET /echo?param1=value1&param2=value2 HTTP/1.1
+Host: localhost:8080
+Header-Missing Separator
+User-Agent: qwerty
+

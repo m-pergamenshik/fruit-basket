@@ -1,0 +1,16 @@
+POST /echo HTTP/1.1
+Host: localhost:8080
+User-Agent: qwerty
+Content-Type: multipart/form-data; boundary=---------------------------60026920429834574901393671041
+Content-Length: 402
+
+-----------------------------60026920429834574901393671041
+Content-Disposition: form-data; name="fileToUpload"; filename="text_27_bytes.txt"
+Content-Type: text/plain
+
+This is from uploaded file!
+-----------------------------60026920429834574901393671041
+Content-Disposition: form-data; name="uploadedFileName"
+
+small_text_file.txt
+-----------------------------60026920429834574901393671041--

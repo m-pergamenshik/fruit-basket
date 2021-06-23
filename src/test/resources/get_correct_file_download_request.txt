@@ -1,0 +1,4 @@
+GET /download-resource-file HTTP/1.1
+Host: localhost:8080
+User-Agent: qwerty
+

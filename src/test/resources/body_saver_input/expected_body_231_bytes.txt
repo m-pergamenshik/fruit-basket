@@ -1,0 +1,12 @@
+{
+  "user": {
+    "id": 0,
+    "name": "Adam Carter",
+    "work": "Unilogic",
+    "email": "adam.carter@unilogic.com",
+    "dob": "1978",
+    "address": "83 Warner Street",
+    "city": "Boston",
+    "optedin": true
+  }
+}

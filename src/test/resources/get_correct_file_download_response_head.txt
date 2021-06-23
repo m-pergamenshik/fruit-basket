@@ -1,0 +1,5 @@
+HTTP/1.1 200 OK
+Content-Disposition: attachment; filename="image_colors_234_bytes.png"
+Content-Length: 234
+Content-Type: image/png
+

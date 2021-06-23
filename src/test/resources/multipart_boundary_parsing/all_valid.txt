@@ -1,0 +1,10 @@
+--98h9438hff93hf943f84hf948hf349f8h3498f3394f34hf984
+Content-Disposition: form-data; name="keyA"
+
+valueA
+--98h9438hff93hf943f84hf948hf349f8h3498f3394f34hf984
+Content-Disposition: form-data; name="27bytesFile.txt"; filename="text_27_bytes.txt"
+Content-Type: text/plain
+
+This is from uploaded file!
+--98h9438hff93hf943f84hf948hf349f8h3498f3394f34hf984--
