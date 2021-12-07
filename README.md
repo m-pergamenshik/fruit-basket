@@ -9,7 +9,7 @@ Initially it was written for a possible future video course but then repurposed 
 Obviously this is not a production-grade library. It is not even a proper Maven dependency. It just has the server part which acts like an HTTP server library and a client part which contains the main method and acts like the consumer of that library.
 
 Main features:
-* supports parsing HTTP requests with arbitrary headers and arbitrary body types and sizes (stores small bodies in memory, streams large bodies to disk), including saving files send via form/multipart.
+* supports parsing HTTP requests with arbitrary headers and arbitrary body types and sizes (stores small bodies in memory, streams large bodies to disk), including saving files uploaded via form/multipart.
 * supports producing HTTP responses with arbitrary headers and arbitrary body types and sizes, including enabling download of arbitrary files from disk.
 * supports enabling HTTP endpoints with JAX-RS/Spring-like annotations used like this:
 ```
