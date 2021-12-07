@@ -32,3 +32,5 @@ Project is build around the following core Java components:
 Testing
 * unit tests are available only for methods with the biggest cyclomatic complexy
 * functional tests are based on sending HTTP requests both properly formed and malformed in all sorts of ways and ensuring proper response.
+
+P.S. This HTTP server is based on blocking IO. Yes, I know that ideally we should use NIO or Netty. Maybe in the next project :)
