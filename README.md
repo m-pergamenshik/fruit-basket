@@ -2,7 +2,7 @@
 
 This is an HTTP server simulation which consists of a client and an HTTP multithreaded server "library" inspired by libraries like nanohttpd and servlet containers.
 
-Initially it was written between April-June 2021 for a possible future video course but then repurposed to practice all sorts of low-level Java concepts and APIs as well as dive deeper into networking protocols (HTTP, TCP), network programming etc.
+Initially it was written between April-June 2021 for a possible future course but then repurposed to practice all sorts of low-level Java concepts and APIs as well as dive deeper into networking protocols (HTTP, TCP), network programming etc.
 
 Obviously this is not a production-grade library. It is not even a proper Maven dependency. It just has the server part which acts like an HTTP server library and a client part which contains the main method and acts like the consumer of that library.
 
