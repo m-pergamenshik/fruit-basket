@@ -1,6 +1,6 @@
 # HTTP server simulation
 
-This is an HTTP server simulation which consists of a client and an HTTP server "library" inspired by libraries like nanohttpd and servlet containers.
+This is an HTTP server simulation which consists of a client and an HTTP multithreaded server "library" inspired by libraries like nanohttpd and servlet containers.
 
 Initially it was written between April-June 2021 for a possible future video course but then repurposed to practice all sorts of low-level Java concepts and APIs as well as dive deeper into networking protocols (HTTP, TCP), network programming etc.
 
