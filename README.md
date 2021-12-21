@@ -1,4 +1,4 @@
-# HTTP server simulation
+# HTTP multithreaded server simulation
 
 This is an HTTP server simulation which consists of a client and an HTTP multithreaded server "library" inspired by libraries like nanohttpd and servlet containers.
 
